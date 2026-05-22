@@ -3,7 +3,7 @@
 
 
 - **Nombre del proyecto:** ROS2 Service Server (Lab 01)
-- **Equipo / Autor(es):** Isaac Antonio Pérez Alemán
+- **Equipo / Autor(es):** Carlos Juárez Galicia
 - **Curso / Asignatura:** Applied Robotics
 - **Fecha:** 19/02/2026
 
